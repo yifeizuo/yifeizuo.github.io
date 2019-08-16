@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "读《智能时代》 第四章：大数据与商业"
+title: "ZhiNengShiDai reading note"
 date: 2019-08-16
 ---
 
